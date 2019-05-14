@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.traffic"
     android:versionCode="2"
@@ -60,7 +60,7 @@
 
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="pVENCzouH4jnSGG7BE89zjUt" >
+            android:value="pMKPTBfuY9NmvTS4t8zNQSkCC8zGCEfK" >
         </meta-data>
 
         <service
